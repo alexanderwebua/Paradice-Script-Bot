@@ -1,2 +1,2 @@
 # Paradice Script Bot Full
-Bot for Paradice
+Bot for paradice.in
