@@ -1,2 +1,2 @@
-# Paradice-Script-Bot
+# Paradice Script Bot Full
 Bot for Paradice
